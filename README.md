@@ -2,7 +2,7 @@
 
 ## Buying the plugin
 
-The first thing to do is buying the plugin. You can do this just hitting the buy plugin on SpigotMC.
+The first thing to do is buying the plugin. You can do this on SpigotMC.
 
 ## Installing the plugin
 

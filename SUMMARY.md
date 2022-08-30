@@ -7,4 +7,4 @@
 ## Links
 
 * [Discord](https://discord.io/RocketPlugins)
-* [Buy on SpigotMC](https://www.spigotmc.org/resources/94931/)
+* [Buy on SpigotMC](https://www.spigotmc.org/resources/103552/)

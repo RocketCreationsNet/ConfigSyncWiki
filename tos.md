@@ -10,5 +10,6 @@ By purchasing ConfigSync, you agree to the following Terms of Service:
 * The plugin may stop working if you violate the terms above
 * I reserve the right to change these terms at any time and you agree to abide by the most recent version of the terms
 * You agree to everything listed above and below
-
+---
 NO REFUNDS WILL BE GRANTED
+---
